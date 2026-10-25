@@ -1,0 +1,26 @@
+[
+ {
+  "slug": "game-batch-bbe26f1",
+  "title": "What's live on Iceberg right now",
+  "status": "Published",
+  "url": "updates/game-batch-bbe26f1.html",
+  "window": "Live on the game site (build bbe26f1)",
+  "summary": "Iceberg Plus, ice UI, Sled Rush, Starfall Lake, and new cosmetics — play at iceberg-games.github.io/iceberg/."
+ },
+ {
+  "slug": "winterhaven",
+  "title": "Winterhaven: village quests under the northern lights",
+  "status": "Published",
+  "url": "updates/winterhaven.html",
+  "window": "Live Oct 25 – Nov 1, 2026 (America/Phoenix)",
+  "summary": "Explore a cozy snowy village at night, help villagers with quests, and race the Frostgate Run for limited-time cosmetics."
+ },
+ {
+  "slug": "natural-disasters",
+  "title": "Natural Disasters (featured event)",
+  "status": "Coming soon",
+  "url": null,
+  "window": null,
+  "summary": "Event art exists; write-up pending details from the team."
+ }
+]
